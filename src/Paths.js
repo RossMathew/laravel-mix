@@ -4,7 +4,7 @@ module.exports = {
     /**
      * Determine the path to the user's webpack.mix.js file.
      */
-    mix: function () {
+    mix: function() {
         return this.root('webpack.mix');
     },
 
